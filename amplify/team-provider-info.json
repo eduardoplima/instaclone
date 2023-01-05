@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-instaclone-dev-193717-authRole",
+      "UnauthRoleArn": "arn:aws:iam::187311653842:role/amplify-instaclone-dev-193717-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::187311653842:role/amplify-instaclone-dev-193717-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-instaclone-dev-193717-deployment",
+      "UnauthRoleName": "amplify-instaclone-dev-193717-unauthRole",
+      "StackName": "amplify-instaclone-dev-193717",
+      "StackId": "arn:aws:cloudformation:us-east-1:187311653842:stack/amplify-instaclone-dev-193717/b054cc50-895b-11ed-a9bf-0e798a649f1f",
+      "AmplifyAppId": "d1y6m5abd0hubs"
+    },
+    "categories": {
+      "auth": {
+        "instaclone09697fcf": {}
+      },
+      "api": {
+        "instaclone": {}
+      },
+      "storage": {
+        "instaclone": {}
+      }
+    }
+  }
+}

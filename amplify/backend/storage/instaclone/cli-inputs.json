@@ -1,0 +1,14 @@
+{
+  "resourceName": "instaclone",
+  "policyUUID": "71bffaf5",
+  "bucketName": "instaclone-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
